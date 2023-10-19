@@ -3,6 +3,8 @@ import './App.css';
 
 function App() {
   return (
+    /* remove this content 
+    
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -18,7 +20,9 @@ function App() {
           Learn React
         </a>
       </header>
-    </div>
+    </div> */
+  <h1>hello world! </h1>
+
   );
 }
 
